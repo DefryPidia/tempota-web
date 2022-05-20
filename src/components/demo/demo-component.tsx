@@ -4,7 +4,7 @@ import { Input } from '../../core/base-components/input/input.component';
 export const DemoComponent = () => {
     return (
         <div>
-            <Input type='s' />
+            {/* <Input type='s' /> */}
         </div>
     )
 }
